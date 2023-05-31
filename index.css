@@ -1,0 +1,37 @@
+.my-brand{
+    font-family: 'Bodoni Moda', serif;
+    
+    font-size:35px;
+    
+}
+#navbardiv{
+   background-color: #F1F6F9; 
+   
+}
+
+#navoption{
+    font-size: 17px;
+    color: black;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    font-weight: bold;    
+}
+
+#navoption:hover{
+    
+    color: yellowgreen;
+    
+}
+#getwiser{
+    background-color: yellowgreen;
+    font-size: 17px;
+    color: #0C134F;
+    font-family: 'Tsukimi Rounded', sans-serif;
+    font-weight: bold; 
+    
+    
+}
+.ez{
+    font-size: 50px;
+}
+
+
